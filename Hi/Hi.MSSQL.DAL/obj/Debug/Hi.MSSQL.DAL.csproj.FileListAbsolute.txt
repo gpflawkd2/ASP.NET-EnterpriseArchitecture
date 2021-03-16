@@ -1,0 +1,11 @@
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.MSSQL.DAL\bin\Debug\Hi.MSSQL.DAL.dll
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.MSSQL.DAL\bin\Debug\Hi.MSSQL.DAL.pdb
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.MSSQL.DAL\bin\Debug\Hi.IDAL.dll
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.MSSQL.DAL\bin\Debug\Hi.Model.dll
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.MSSQL.DAL\bin\Debug\Hi.IDAL.pdb
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.MSSQL.DAL\bin\Debug\Hi.Model.pdb
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.MSSQL.DAL\obj\Debug\Hi.MSSQL.DAL.csprojAssemblyReference.cache
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.MSSQL.DAL\obj\Debug\Hi.MSSQL.DAL.csproj.CoreCompileInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.MSSQL.DAL\obj\Debug\Hi.MSSQL.DAL.csproj.CopyComplete
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.MSSQL.DAL\obj\Debug\Hi.MSSQL.DAL.dll
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.MSSQL.DAL\obj\Debug\Hi.MSSQL.DAL.pdb

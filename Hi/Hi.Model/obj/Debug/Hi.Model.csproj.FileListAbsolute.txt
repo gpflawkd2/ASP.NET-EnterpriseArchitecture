@@ -1,0 +1,6 @@
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.Model\bin\Debug\Hi.Model.dll
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.Model\bin\Debug\Hi.Model.pdb
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.Model\obj\Debug\Hi.Model.csprojAssemblyReference.cache
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.Model\obj\Debug\Hi.Model.csproj.CoreCompileInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.Model\obj\Debug\Hi.Model.dll
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.Model\obj\Debug\Hi.Model.pdb

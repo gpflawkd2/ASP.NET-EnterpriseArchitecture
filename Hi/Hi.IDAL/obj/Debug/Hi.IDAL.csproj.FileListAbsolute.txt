@@ -1,0 +1,9 @@
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.IDAL\bin\Debug\Hi.IDAL.dll
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.IDAL\bin\Debug\Hi.IDAL.pdb
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.IDAL\bin\Debug\Hi.Model.dll
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.IDAL\bin\Debug\Hi.Model.pdb
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.IDAL\obj\Debug\Hi.IDAL.csprojAssemblyReference.cache
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.IDAL\obj\Debug\Hi.IDAL.csproj.CoreCompileInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.IDAL\obj\Debug\Hi.IDAL.csproj.CopyComplete
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.IDAL\obj\Debug\Hi.IDAL.dll
+D:\ETC\PJ\ASP.NET MVC\Hi\Hi.IDAL\obj\Debug\Hi.IDAL.pdb
