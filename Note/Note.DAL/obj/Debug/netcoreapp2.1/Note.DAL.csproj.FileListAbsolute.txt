@@ -1,0 +1,32 @@
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.DAL.deps.json
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.DAL.dll
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.DAL.pdb
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.IDAL.dll
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.Model.dll
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.IDAL.pdb
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.Model.pdb
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\obj\Debug\netcoreapp2.1\Note.DAL.csprojAssemblyReference.cache
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\obj\Debug\netcoreapp2.1\Note.DAL.csproj.CoreCompileInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\obj\Debug\netcoreapp2.1\Note.DAL.AssemblyInfoInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\obj\Debug\netcoreapp2.1\Note.DAL.AssemblyInfo.cs
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\obj\Debug\netcoreapp2.1\Note.DAL.csproj.CopyComplete
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\obj\Debug\netcoreapp2.1\Note.DAL.dll
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\obj\Debug\netcoreapp2.1\Note.DAL.pdb
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.DAL.runtimeconfig.json
+D:\ETC\PJ\ASP.NET MVC\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.DAL.runtimeconfig.dev.json
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.DAL.deps.json
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.DAL.runtimeconfig.json
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.DAL.runtimeconfig.dev.json
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.DAL.dll
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.DAL.pdb
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.IDAL.dll
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.Model.dll
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.IDAL.pdb
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\bin\Debug\netcoreapp2.1\Note.Model.pdb
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\obj\Debug\netcoreapp2.1\Note.DAL.csprojAssemblyReference.cache
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\obj\Debug\netcoreapp2.1\Note.DAL.csproj.CoreCompileInputs.cache
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\obj\Debug\netcoreapp2.1\Note.DAL.AssemblyInfoInputs.cache
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\obj\Debug\netcoreapp2.1\Note.DAL.AssemblyInfo.cs
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\obj\Debug\netcoreapp2.1\Note.DAL.csproj.CopyComplete
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\obj\Debug\netcoreapp2.1\Note.DAL.dll
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.DAL\obj\Debug\netcoreapp2.1\Note.DAL.pdb

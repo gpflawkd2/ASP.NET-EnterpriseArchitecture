@@ -1,0 +1,24 @@
+D:\ETC\PJ\ASP.NET MVC\Note\Note.IDAL\bin\Debug\netcoreapp2.1\Note.IDAL.deps.json
+D:\ETC\PJ\ASP.NET MVC\Note\Note.IDAL\bin\Debug\netcoreapp2.1\Note.IDAL.dll
+D:\ETC\PJ\ASP.NET MVC\Note\Note.IDAL\bin\Debug\netcoreapp2.1\Note.IDAL.pdb
+D:\ETC\PJ\ASP.NET MVC\Note\Note.IDAL\bin\Debug\netcoreapp2.1\Note.Model.dll
+D:\ETC\PJ\ASP.NET MVC\Note\Note.IDAL\bin\Debug\netcoreapp2.1\Note.Model.pdb
+D:\ETC\PJ\ASP.NET MVC\Note\Note.IDAL\obj\Debug\netcoreapp2.1\Note.IDAL.csprojAssemblyReference.cache
+D:\ETC\PJ\ASP.NET MVC\Note\Note.IDAL\obj\Debug\netcoreapp2.1\Note.IDAL.csproj.CoreCompileInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Note\Note.IDAL\obj\Debug\netcoreapp2.1\Note.IDAL.AssemblyInfoInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Note\Note.IDAL\obj\Debug\netcoreapp2.1\Note.IDAL.AssemblyInfo.cs
+D:\ETC\PJ\ASP.NET MVC\Note\Note.IDAL\obj\Debug\netcoreapp2.1\Note.IDAL.csproj.CopyComplete
+D:\ETC\PJ\ASP.NET MVC\Note\Note.IDAL\obj\Debug\netcoreapp2.1\Note.IDAL.dll
+D:\ETC\PJ\ASP.NET MVC\Note\Note.IDAL\obj\Debug\netcoreapp2.1\Note.IDAL.pdb
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.IDAL\bin\Debug\netcoreapp2.1\Note.IDAL.deps.json
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.IDAL\bin\Debug\netcoreapp2.1\Note.IDAL.dll
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.IDAL\bin\Debug\netcoreapp2.1\Note.IDAL.pdb
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.IDAL\bin\Debug\netcoreapp2.1\Note.Model.dll
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.IDAL\bin\Debug\netcoreapp2.1\Note.Model.pdb
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.IDAL\obj\Debug\netcoreapp2.1\Note.IDAL.csprojAssemblyReference.cache
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.IDAL\obj\Debug\netcoreapp2.1\Note.IDAL.csproj.CoreCompileInputs.cache
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.IDAL\obj\Debug\netcoreapp2.1\Note.IDAL.AssemblyInfoInputs.cache
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.IDAL\obj\Debug\netcoreapp2.1\Note.IDAL.AssemblyInfo.cs
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.IDAL\obj\Debug\netcoreapp2.1\Note.IDAL.csproj.CopyComplete
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.IDAL\obj\Debug\netcoreapp2.1\Note.IDAL.dll
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.IDAL\obj\Debug\netcoreapp2.1\Note.IDAL.pdb

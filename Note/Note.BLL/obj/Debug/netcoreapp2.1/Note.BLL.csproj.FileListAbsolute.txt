@@ -1,0 +1,28 @@
+D:\ETC\PJ\ASP.NET MVC\Note\Note.BLL\bin\Debug\netcoreapp2.1\Note.BLL.deps.json
+D:\ETC\PJ\ASP.NET MVC\Note\Note.BLL\bin\Debug\netcoreapp2.1\Note.BLL.dll
+D:\ETC\PJ\ASP.NET MVC\Note\Note.BLL\bin\Debug\netcoreapp2.1\Note.BLL.pdb
+D:\ETC\PJ\ASP.NET MVC\Note\Note.BLL\bin\Debug\netcoreapp2.1\Note.IDAL.dll
+D:\ETC\PJ\ASP.NET MVC\Note\Note.BLL\bin\Debug\netcoreapp2.1\Note.Model.dll
+D:\ETC\PJ\ASP.NET MVC\Note\Note.BLL\bin\Debug\netcoreapp2.1\Note.IDAL.pdb
+D:\ETC\PJ\ASP.NET MVC\Note\Note.BLL\bin\Debug\netcoreapp2.1\Note.Model.pdb
+D:\ETC\PJ\ASP.NET MVC\Note\Note.BLL\obj\Debug\netcoreapp2.1\Note.BLL.csprojAssemblyReference.cache
+D:\ETC\PJ\ASP.NET MVC\Note\Note.BLL\obj\Debug\netcoreapp2.1\Note.BLL.csproj.CoreCompileInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Note\Note.BLL\obj\Debug\netcoreapp2.1\Note.BLL.AssemblyInfoInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Note\Note.BLL\obj\Debug\netcoreapp2.1\Note.BLL.AssemblyInfo.cs
+D:\ETC\PJ\ASP.NET MVC\Note\Note.BLL\obj\Debug\netcoreapp2.1\Note.BLL.csproj.CopyComplete
+D:\ETC\PJ\ASP.NET MVC\Note\Note.BLL\obj\Debug\netcoreapp2.1\Note.BLL.dll
+D:\ETC\PJ\ASP.NET MVC\Note\Note.BLL\obj\Debug\netcoreapp2.1\Note.BLL.pdb
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.BLL\bin\Debug\netcoreapp2.1\Note.BLL.deps.json
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.BLL\bin\Debug\netcoreapp2.1\Note.BLL.dll
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.BLL\bin\Debug\netcoreapp2.1\Note.BLL.pdb
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.BLL\bin\Debug\netcoreapp2.1\Note.IDAL.dll
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.BLL\bin\Debug\netcoreapp2.1\Note.Model.dll
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.BLL\bin\Debug\netcoreapp2.1\Note.IDAL.pdb
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.BLL\bin\Debug\netcoreapp2.1\Note.Model.pdb
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.BLL\obj\Debug\netcoreapp2.1\Note.BLL.csprojAssemblyReference.cache
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.BLL\obj\Debug\netcoreapp2.1\Note.BLL.csproj.CoreCompileInputs.cache
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.BLL\obj\Debug\netcoreapp2.1\Note.BLL.AssemblyInfoInputs.cache
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.BLL\obj\Debug\netcoreapp2.1\Note.BLL.AssemblyInfo.cs
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.BLL\obj\Debug\netcoreapp2.1\Note.BLL.csproj.CopyComplete
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.BLL\obj\Debug\netcoreapp2.1\Note.BLL.dll
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.BLL\obj\Debug\netcoreapp2.1\Note.BLL.pdb
