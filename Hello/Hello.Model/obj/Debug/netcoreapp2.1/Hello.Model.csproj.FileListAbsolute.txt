@@ -1,0 +1,9 @@
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.Model\bin\Debug\netcoreapp2.1\Hello.Model.deps.json
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.Model\bin\Debug\netcoreapp2.1\Hello.Model.dll
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.Model\bin\Debug\netcoreapp2.1\Hello.Model.pdb
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.Model\obj\Debug\netcoreapp2.1\Hello.Model.csprojAssemblyReference.cache
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.Model\obj\Debug\netcoreapp2.1\Hello.Model.csproj.CoreCompileInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.Model\obj\Debug\netcoreapp2.1\Hello.Model.AssemblyInfoInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.Model\obj\Debug\netcoreapp2.1\Hello.Model.AssemblyInfo.cs
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.Model\obj\Debug\netcoreapp2.1\Hello.Model.dll
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.Model\obj\Debug\netcoreapp2.1\Hello.Model.pdb

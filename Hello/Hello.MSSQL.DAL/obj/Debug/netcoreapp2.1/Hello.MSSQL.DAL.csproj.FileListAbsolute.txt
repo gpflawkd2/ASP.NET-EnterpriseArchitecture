@@ -1,0 +1,14 @@
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.MSSQL.DAL\bin\Debug\netcoreapp2.1\Hello.MSSQL.DAL.deps.json
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.MSSQL.DAL\bin\Debug\netcoreapp2.1\Hello.MSSQL.DAL.dll
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.MSSQL.DAL\bin\Debug\netcoreapp2.1\Hello.MSSQL.DAL.pdb
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.MSSQL.DAL\bin\Debug\netcoreapp2.1\Hello.IDAL.dll
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.MSSQL.DAL\bin\Debug\netcoreapp2.1\Hello.Model.dll
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.MSSQL.DAL\bin\Debug\netcoreapp2.1\Hello.IDAL.pdb
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.MSSQL.DAL\bin\Debug\netcoreapp2.1\Hello.Model.pdb
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.MSSQL.DAL\obj\Debug\netcoreapp2.1\Hello.MSSQL.DAL.csprojAssemblyReference.cache
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.MSSQL.DAL\obj\Debug\netcoreapp2.1\Hello.MSSQL.DAL.csproj.CoreCompileInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.MSSQL.DAL\obj\Debug\netcoreapp2.1\Hello.MSSQL.DAL.AssemblyInfoInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.MSSQL.DAL\obj\Debug\netcoreapp2.1\Hello.MSSQL.DAL.AssemblyInfo.cs
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.MSSQL.DAL\obj\Debug\netcoreapp2.1\Hello.MSSQL.DAL.csproj.CopyComplete
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.MSSQL.DAL\obj\Debug\netcoreapp2.1\Hello.MSSQL.DAL.dll
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.MSSQL.DAL\obj\Debug\netcoreapp2.1\Hello.MSSQL.DAL.pdb

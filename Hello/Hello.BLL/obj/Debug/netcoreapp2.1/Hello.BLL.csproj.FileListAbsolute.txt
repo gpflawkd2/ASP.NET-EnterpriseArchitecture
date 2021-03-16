@@ -1,0 +1,14 @@
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.BLL\bin\Debug\netcoreapp2.1\Hello.BLL.deps.json
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.BLL\bin\Debug\netcoreapp2.1\Hello.BLL.dll
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.BLL\bin\Debug\netcoreapp2.1\Hello.BLL.pdb
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.BLL\bin\Debug\netcoreapp2.1\Hello.IDAL.dll
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.BLL\bin\Debug\netcoreapp2.1\Hello.Model.dll
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.BLL\bin\Debug\netcoreapp2.1\Hello.IDAL.pdb
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.BLL\bin\Debug\netcoreapp2.1\Hello.Model.pdb
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.BLL\obj\Debug\netcoreapp2.1\Hello.BLL.csprojAssemblyReference.cache
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.BLL\obj\Debug\netcoreapp2.1\Hello.BLL.csproj.CoreCompileInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.BLL\obj\Debug\netcoreapp2.1\Hello.BLL.AssemblyInfoInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.BLL\obj\Debug\netcoreapp2.1\Hello.BLL.AssemblyInfo.cs
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.BLL\obj\Debug\netcoreapp2.1\Hello.BLL.csproj.CopyComplete
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.BLL\obj\Debug\netcoreapp2.1\Hello.BLL.dll
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.BLL\obj\Debug\netcoreapp2.1\Hello.BLL.pdb

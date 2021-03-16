@@ -1,0 +1,12 @@
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.IDAL\bin\Debug\netcoreapp2.1\Hello.IDAL.deps.json
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.IDAL\bin\Debug\netcoreapp2.1\Hello.IDAL.dll
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.IDAL\bin\Debug\netcoreapp2.1\Hello.IDAL.pdb
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.IDAL\bin\Debug\netcoreapp2.1\Hello.Model.dll
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.IDAL\bin\Debug\netcoreapp2.1\Hello.Model.pdb
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.IDAL\obj\Debug\netcoreapp2.1\Hello.IDAL.csprojAssemblyReference.cache
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.IDAL\obj\Debug\netcoreapp2.1\Hello.IDAL.csproj.CoreCompileInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.IDAL\obj\Debug\netcoreapp2.1\Hello.IDAL.AssemblyInfoInputs.cache
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.IDAL\obj\Debug\netcoreapp2.1\Hello.IDAL.AssemblyInfo.cs
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.IDAL\obj\Debug\netcoreapp2.1\Hello.IDAL.csproj.CopyComplete
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.IDAL\obj\Debug\netcoreapp2.1\Hello.IDAL.dll
+D:\ETC\PJ\ASP.NET MVC\Hello\Hello.IDAL\obj\Debug\netcoreapp2.1\Hello.IDAL.pdb
