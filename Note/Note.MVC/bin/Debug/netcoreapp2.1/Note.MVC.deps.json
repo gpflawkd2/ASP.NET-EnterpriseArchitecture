@@ -339,6 +339,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "2.1.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.1.2",
+          "Microsoft.Extensions.Configuration": "2.1.1",
           "Note.IDAL": "1.0.0"
         },
         "runtime": {

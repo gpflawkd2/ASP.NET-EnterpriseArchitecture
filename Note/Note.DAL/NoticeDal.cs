@@ -1,4 +1,5 @@
-﻿using Note.DAL.DataContext;
+﻿using Microsoft.Extensions.Configuration;
+using Note.DAL.DataContext;
 using Note.IDAL;
 using Note.Model;
 using System;
@@ -9,13 +10,20 @@ namespace Note.DAL
 {
     public class NoticeDal : INoticeDal
     {
+        private readonly IConfiguration _configuration;
+
+        public NoticeDal(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
+        
         /// <summary>
         /// 1. 공지사항 리스트 출력
         /// </summary>
         /// <returns></returns>
         public List<Notice> GetNoticeList()
         {
-            using (var db = new NoteDbContext())
+            using (var db = new NoteDbContext(_configuration))
             {
                 return db.Notices
                     .OrderByDescending(n=>n.NoticeNo)
