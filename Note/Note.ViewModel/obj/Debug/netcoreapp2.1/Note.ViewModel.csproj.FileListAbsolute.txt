@@ -1,0 +1,9 @@
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.ViewModel\bin\Debug\netcoreapp2.1\Note.ViewModel.deps.json
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.ViewModel\bin\Debug\netcoreapp2.1\Note.ViewModel.dll
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.ViewModel\bin\Debug\netcoreapp2.1\Note.ViewModel.pdb
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.ViewModel\obj\Debug\netcoreapp2.1\Note.ViewModel.csprojAssemblyReference.cache
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.ViewModel\obj\Debug\netcoreapp2.1\Note.ViewModel.csproj.CoreCompileInputs.cache
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.ViewModel\obj\Debug\netcoreapp2.1\Note.ViewModel.AssemblyInfoInputs.cache
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.ViewModel\obj\Debug\netcoreapp2.1\Note.ViewModel.AssemblyInfo.cs
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.ViewModel\obj\Debug\netcoreapp2.1\Note.ViewModel.dll
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.ViewModel\obj\Debug\netcoreapp2.1\Note.ViewModel.pdb

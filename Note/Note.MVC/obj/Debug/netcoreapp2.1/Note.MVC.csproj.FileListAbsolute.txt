@@ -78,3 +78,5 @@ D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.MVC\obj\Debug\netcoreapp2.1\N
 D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.MVC\obj\Debug\netcoreapp2.1\Note.MVC.csproj.CopyComplete
 D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.MVC\obj\Debug\netcoreapp2.1\Note.MVC.dll
 D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.MVC\obj\Debug\netcoreapp2.1\Note.MVC.pdb
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.MVC\bin\Debug\netcoreapp2.1\Note.ViewModel.dll
+D:\GitHub\ASP.NET-EnterpriseArchitecture\Note\Note.MVC\bin\Debug\netcoreapp2.1\Note.ViewModel.pdb

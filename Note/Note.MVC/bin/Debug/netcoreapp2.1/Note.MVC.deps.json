@@ -28,7 +28,8 @@
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0",
           "Note.BLL": "1.0.0",
-          "Note.DAL": "1.0.0"
+          "Note.DAL": "1.0.0",
+          "Note.ViewModel": "1.0.0"
         },
         "runtime": {
           "Note.MVC.dll": {}
@@ -366,6 +367,14 @@
         },
         "compile": {
           "Note.Model.dll": {}
+        }
+      },
+      "Note.ViewModel/1.0.0": {
+        "runtime": {
+          "Note.ViewModel.dll": {}
+        },
+        "compile": {
+          "Note.ViewModel.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3361,6 +3370,11 @@
       "sha512": ""
     },
     "Note.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Note.ViewModel/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

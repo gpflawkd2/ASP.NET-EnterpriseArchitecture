@@ -4385,6 +4385,16 @@
         "runtime": {
           "bin/placeholder/Note.Model.dll": {}
         }
+      },
+      "Note.ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Note.ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Note.ViewModel.dll": {}
+        }
       }
     }
   },
@@ -11882,6 +11892,11 @@
       "type": "project",
       "path": "../Note.Model/Note.Model.csproj",
       "msbuildProject": "../Note.Model/Note.Model.csproj"
+    },
+    "Note.ViewModel/1.0.0": {
+      "type": "project",
+      "path": "../Note.ViewModel/Note.ViewModel.csproj",
+      "msbuildProject": "../Note.ViewModel/Note.ViewModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -11890,7 +11905,8 @@
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
       "Note.BLL >= 1.0.0",
-      "Note.DAL >= 1.0.0"
+      "Note.DAL >= 1.0.0",
+      "Note.ViewModel >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -11928,6 +11944,9 @@
             },
             "D:\\GitHub\\ASP.NET-EnterpriseArchitecture\\Note\\Note.DAL\\Note.DAL.csproj": {
               "projectPath": "D:\\GitHub\\ASP.NET-EnterpriseArchitecture\\Note\\Note.DAL\\Note.DAL.csproj"
+            },
+            "D:\\GitHub\\ASP.NET-EnterpriseArchitecture\\Note\\Note.ViewModel\\Note.ViewModel.csproj": {
+              "projectPath": "D:\\GitHub\\ASP.NET-EnterpriseArchitecture\\Note\\Note.ViewModel\\Note.ViewModel.csproj"
             }
           }
         }
